@@ -10,9 +10,6 @@ In this repository, you will find:
 
 - **Data**: The dataset provided in this competition is obtained from Diabetes 130-US hospitals for years 1999-2008 Data Set.
 - **Notebooks**: Jupyter notebooks containing the code for data preprocessing, model development, and evaluation.
-- **Models**: Saved machine learning models and their associated files.
-- **Documentation**: Additional documentation and resources related to the project.
-- **Results**: Presentation files or reports summarizing the project's findings and insights.
 
 ## Requirements
 
