@@ -1,0 +1,22 @@
+# Diabetes Readmission Prediction
+
+## Introduction
+
+This project focuses on predicting readmissions of diabetic patients using machine learning techniques.
+
+## Project Overview
+
+In this repository, you will find:
+
+- **Data**: The dataset used for training and testing the predictive model.
+- **Notebooks**: Jupyter notebooks containing the code for data preprocessing, model development, and evaluation.
+- **Models**: Saved machine learning models and their associated files.
+- **Documentation**: Additional documentation and resources related to the project.
+- **Results**: Presentation files or reports summarizing the project's findings and insights.
+
+## Requirements
+
+- Python 3.x
+- Jupyter Notebook (for running the provided notebooks)
+- Python libraries (such as pandas, scikit-learn, matplotlib, etc.) listed in the `requirements.txt` file.
+
