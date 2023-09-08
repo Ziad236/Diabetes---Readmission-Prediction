@@ -18,5 +18,5 @@ In this repository, you will find:
 
 - Python 3.x
 - Jupyter Notebook (for running the provided notebooks)
-- Python libraries (such as pandas, scikit-learn, matplotlib, etc.) listed in the `requirements.txt` file.
+
 
